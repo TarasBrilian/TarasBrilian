@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cingihimut&label=Profile%20views&color=0e75b6&style=flat" alt="cingihimut" /> </p>
 
-- 🔭 I’m currently working on [forum assistant at amikom university](https://forumasisten.or.id/)
+- 🔭 I’m currently working on [Labs assistant at amikom university](https://home.amikom.ac.id/)
 
 - 🌱 I’m currently learning **Gin, Nextjs, Hardhat, Truffle, Web3js**
 
