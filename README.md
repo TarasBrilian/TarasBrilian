@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Labs assistant at amikom university](https://home.amikom.ac.id/)
 
-- 🌱 I’m currently learning **Gin, Nextjs, Hardhat, Truffle, Web3js**
+- 🌱 I’m currently learning **Gin, Nextjs, Hardhat, Truffle, Web3js, Rust and Cargo**
 
 - 📫 How to reach me **singgihbrilian.tara06@gmail.com**
 
