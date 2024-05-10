@@ -1,7 +1,6 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/taras_brilian?igshid=YmMyMTA2M2Y=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/singgih-brilian-b39a4525b) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/taras_brilian?igshid=YmMyMTA2M2Y=)
 <img align="right" height="150" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif"  />
 
 # 💻 Tech Stack:
