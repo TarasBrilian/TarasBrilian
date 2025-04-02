@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarasbrilian&label=Profile%20views&color=0e75b6&style=flat" alt="tarasbrilian" /> </p>
 
-- 👯 I’m currently collaborate on [novaria](https://github.com/novaria-defi)
+- 👯 I’m currently collaborate on [novaria](https://github.com/novaria-defi) and [centuari](https://github.com/centuari-labs)
 
 - 💬 Ask me about **solidity**
 
