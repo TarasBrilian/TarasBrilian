@@ -5,12 +5,11 @@
 
 - 👯 I’m currently collaborate on [novaria](https://github.com/novaria-defi) and [centuari](https://github.com/centuari-labs)
 
-- 💬 Ask me about **solidity**
+- 💬 Ask me about **solidity**, **rust**
 
 - 📫 How to reach me **singgihbrilian.tara06@gmail.com**
 
 - ⚡ Fun fact **i think i am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/singgihtara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="singgihtara" height="30" width="40" /></a>
